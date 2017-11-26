@@ -1,8 +1,8 @@
 {
     "name": "focus-dark",
-    "displayName": "focus dark",
+    "displayName": "Focus Dark",
     "description": "Code editor color theme that lets you focus on the content",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "brandon93s",
     "repository": {
         "type": "git",

@@ -2,7 +2,7 @@
 
 > Syntax theme that lets you focus on the content
 
-This is a port of the [focus](https://github.com/sindresorhus/focus) theme for VS code.
+This is a port of the [focus](https://github.com/sindresorhus/focus) theme by [Sindre Sorhus](https://github.com/sindresorhus) for VS code.
 
 ![](https://raw.githubusercontent.com/brandon93s/vscode-focus-dark/master/static/screenshot.png)
 
