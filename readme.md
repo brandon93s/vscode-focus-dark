@@ -4,15 +4,15 @@
 
 This is a port of the [focus](https://github.com/sindresorhus/focus) theme for VS code.
 
-![](static/screenshot.png)
+![](https://raw.githubusercontent.com/brandon93s/vscode-focus-dark/master/static/screenshot.png)
 
 #### Works perfectly with Markdown
 
-![](screenshot-markdown.png)
+![](https://raw.githubusercontent.com/brandon93s/vscode-focus-dark/master/static/screenshot-markdown.png)
 
 #### And LaTeX
 
-![](static/screenshot-latex.png)
+![](https://raw.githubusercontent.com/brandon93s/vscode-focus-dark/master/static/screenshot-latex.png)
 
 
 
