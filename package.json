@@ -1,0 +1,26 @@
+{
+    "name": "focus-dark",
+    "displayName": "focus dark",
+    "description": "Code editor color theme that lets you focus on the content",
+    "version": "0.0.1",
+    "publisher": "brandon93s",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brandon93s/vscode-focus-dark"
+    },
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Focus Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Focus Dark-color-theme.json"
+            }
+        ]
+    }
+}

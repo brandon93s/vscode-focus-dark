@@ -1,0 +1,108 @@
+{
+	"tokenColors": [
+		{
+			"settings": {
+				"background": "#1b1d1f",
+				"foreground": "#c2c5bd"
+			}
+		},
+		{
+			"name": "All",
+			"scope": [
+				"comment",
+				"constant",
+				"entity",
+				"invalid",
+				"keyword",
+				"markup",
+				"meta",
+				"storage",
+				"string",
+				"support",
+				"variable",
+				"source"
+			],
+			"settings": {
+				"foreground": "#34373b"
+			}
+		},
+		{
+			"name": "Show",
+			"scope": [
+				"string.quoted",
+				"meta.paragraph",
+				"entity.name.section"
+			],
+			"settings": {
+				"foreground": "#c5c8c6"
+			}
+		},
+		{
+			"name": "Show LaTeX",
+			"scope": [
+				"text.tex.latex support.function.general.tex",
+				"support.function.section.latex",
+				"string.other.math.block.environment.latex",
+				"string.other.math.block.environment.latex support.function.general.tex",
+				"text.tex.latex string.other.math.tex",
+				"text.tex.latex constant.other.general.math.tex",
+				"text.tex.latex string.other.math.tex meta.group.braces.tex",
+				"text.tex.latex invalid.illegal.string"
+			],
+			"settings": {
+				"foreground": "#999b99"
+			}
+		},
+		{
+			"name": "Hide quoted strings in HTML/XML",
+			"scope": [
+				"string.quoted.double.html",
+				"string.quoted.double.xml"
+			],
+			"settings": {
+				"foreground": "#34373b"
+			}
+		},
+		{
+			"name": "Markdown show",
+			"scope": [
+				"markup.raw.inline.markdown",
+				"string.other.link.title.markdown",
+				"string.other.link.description.markdown",
+				"markup.quote.markdown"
+			],
+			"settings": {
+				"foreground": "#c5c8c6"
+			}
+		},
+		{
+			"name": "Markdown show subtle",
+			"scope": [
+				"markup.underline.link.markdown",
+				"markup.underline.link.image.markdown"
+			],
+			"settings": {
+				"foreground": "#999b99"
+			}
+		},
+		{
+			"name": "Markdown hide",
+			"scope": [
+				"meta.image.inline.markdown",
+				"meta.link.inline.markdown"
+			],
+			"settings": {
+				"foreground": "#34373b"
+			}
+		}
+	],
+	"colors": {
+		"editor.background": "#1b1d1f",
+		"editorCursor.foreground": "#b6b7b5",
+		"editor.foreground": "#c2c5bd",
+		"editorWhitespace.foreground": "#43464c",
+		"editor.lineHighlightBackground": "#212325",
+		"editor.selectionBackground": "#34373b"
+	},
+	"name": "Focus Dark"
+}
